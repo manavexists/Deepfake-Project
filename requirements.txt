@@ -7,3 +7,8 @@ torchvision
 transformers
 huggingface_hub
 scikit-learn
+fastapi
+uvicorn
+opencv-python-headless
+torch
+python-multipart
