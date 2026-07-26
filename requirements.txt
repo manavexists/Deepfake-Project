@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+transformers
+torch
+torchvision
+torchaudio
+pillow
+opencv-python-headless
+librosa
+soundfile
+reportlab
+qrcode
+gradio
