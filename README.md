@@ -21,8 +21,3 @@ VeritasAI is an advanced, enterprise-grade media authentication backend designed
 * **Document Generation**: [ReportLab](https://www.reportlab.com/) (PDF engine), [Qrcode](https://pypi.org/project/qrcode/)
 * **Web UI Interface**: [Gradio](https://gradio.app/) (Mounted directly inside FastAPI)
 ---
-## Quick Start
-### 1. Clone & Set Up Directory
-```bash
-git clone https://github.com/yourusername/veritas-ai.git
-cd veritas-ai
