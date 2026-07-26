@@ -1,4 +1,4 @@
- ###VeritasAI: Ultimate Deepfake & Misinformation Detection Platform
+### VeritasAI: Ultimate Deepfake & Misinformation Detection Platform
 [![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-v0.95+-emerald.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red.svg?logo=pytorch&logoColor=white)](https://pytorch.org)
