@@ -1,9 +1,13 @@
- VeritasAI: Ultimate Deepfake & Misinformation Detection Platform
+ ###VeritasAI: Ultimate Deepfake & Misinformation Detection Platform
 [![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-v0.95+-emerald.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red.svg?logo=pytorch&logoColor=white)](https://pytorch.org)
 [![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow.svg?logo=huggingface&logoColor=white)](https://huggingface.co/transformers)
 [![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-orange.svg?logo=opencv&logoColor=white)](https://opencv.org)
+
+
+
+
 VeritasAI is an advanced, enterprise-grade media authentication backend designed to combat deepfakes, voice cloning, and online misinformation. By combining deep learning classifiers, digital image forensics, computer vision metadata analysis, and real-time news indexing, VeritasAI calculates a comprehensive Authenticity Trust Score for images, video, and audio.
 ---
 ## Key Features
